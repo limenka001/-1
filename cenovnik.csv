@@ -1,0 +1,13 @@
+Zone,?0,?,?,?,D
+Price (denars/hour),100/50,45,35,25,25
+Time limit,no limit,2 hours,4 hours,no limit,no limit
+Monthly permit for one zone place,/,4000,3000,2000,1000
+Monthly permit for one zone,/,4500,4000,2500,1500
+Monthly permit for reserved parking space,/,12000,8000,6000,4000
+Yearly permit for one zone place,/,40000,30000,20000,10000
+Yearly permit for one zone,/,45000,35000,22000,12000
+"Monthly permit for zones A, B, C and D",7000,,,,
+"Yearly permit for zones A, B, C and D",60000,,,,
+Monthly permit for employees,500,,,,
+Resident permit for first/second car,/,0/300,0/300,0/300,/
+Fine for illegal parking,990,,,,
