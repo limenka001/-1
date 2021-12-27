@@ -1,3 +1,18 @@
-body{
-    background-color: black;
+ul{
+    border: 2px solid black;
+    background-color: #2970be;
+    padding-bottom: 100px;
 }
+li{
+    margin-top: 10px;
+    margin-right: 40px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    padding-bottom: 50px;
+    list-style: none;
+    border: 1px solid black;
+}
+#selectable .ui-selecting { background: #0f58ca; }
+#selectable .ui-selected { background: #1894bf; color: white; }
+#selectable { list-style-type: none; }
